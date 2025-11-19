@@ -1,0 +1,101 @@
+enunciado|alternativa_1|alternativa_2|alternativa_3
+Qual palavra-chave é usada para definir uma função?|def|func|function
+Qual função imprime algo no console?|print()|echo()|write()
+Qual símbolo é usado para comentários de uma linha?|#|//|!--
+Qual tipo de dado representa números inteiros?|int|float|num
+Qual tipo de dado representa texto?|str|text|char
+Como se converte uma string "10" em inteiro?|int("10")|str(10)|float("10")
+Qual operador é usado para atribuição de valor?|=|==|:
+Qual operador compara igualdade?|==|=|===
+Qual operador calcula a potência (exponenciação)?|**|^|pow
+Qual operador calcula o resto da divisão?|%|/|//
+O que a função len() faz?|Retorna o tamanho|Retorna o tipo|Apaga o objeto
+Como se cria uma lista vazia?|lista = []|lista = {}|lista = ()
+Como se adiciona um item ao final de uma lista?|.append()|.add()|.push()
+Qual símbolo define uma tupla?|()|[]|{}
+Uma tupla é...|Imutável|Mutável|Invisível
+Qual símbolo define um dicionário?|{}|[]|()
+Como acessar o valor de uma chave em um dicionário?|dic['chave']|dic.get_index(0)|dic -> chave
+Qual estrutura de repetição itera sobre uma sequência?|for|while|if
+Qual estrutura repete enquanto uma condição for verdadeira?|while|for|repeat
+Qual palavra-chave para o loop imediatamente?|break|stop|exit
+Qual palavra-chave pula para a próxima iteração do loop?|continue|skip|pass
+Qual bloco é usado para capturar erros?|try...except|do...catch|if...else
+Qual a saída de: print(10 // 3)?|3|3.33|1
+Qual a saída de: print(10 % 3)?|1|3|0
+Qual biblioteca padrão é usada para matemática?|math|calc|numbers
+Como importar uma biblioteca chamada 'random'?|import random|include random|using random
+Qual função gera uma sequência de números?|range()|list()|sequence()
+O que o operador 'and' faz?|Retorna True se ambos forem True|Retorna True se um for True|Inverte o valor
+O que o operador 'or' faz?|Retorna True se um for True|Retorna True se ambos forem True|Anula a condição
+O que o operador 'not' faz?|Inverte o valor booleano|Confirma o valor|Duplica o valor
+Como verificar se 'a' está dentro de uma lista?|if 'a' in lista:|if lista has 'a':|if 'a' inside lista:
+Qual a posição do primeiro índice de uma lista?|0|1|-1
+Como acessar o último item de uma lista?|lista[-1]|lista[last]|lista[end]
+Qual método remove um item específico da lista?|.remove()|.delete()|.erase()
+Qual método remove o último item da lista?|.pop()|.push()|.out()
+Como deixar toda uma string em maiúsculas?|.upper()|.caps()|.up()
+Como deixar toda uma string em minúsculas?|.lower()|.min()|.down()
+Como substituir partes de uma string?|.replace()|.swap()|.change()
+Qual função pede entrada de dados ao usuário?|input()|get()|scan()
+A função input() retorna dados sempre como...|String|Inteiro|Float
+Como criar uma função sem corpo (vazia)?|pass|empty|null
+Qual palavra-chave retorna um valor de uma função?|return|send|output
+Qual a extensão padrão de scripts Python?|.py|.pt|.code
+Python é uma linguagem...|Interpretada|Compilada|De baixo nível
+Qual é a convenção de nome para variáveis (PEP 8)?|snake_case|camelCase|PascalCase
+Como se escreve 'Se x for maior que 5'?|if x > 5:|if (x > 5)|check x > 5
+Qual a alternativa ao 'if' para múltiplas condições?|elif|else if|elseif
+O que acontece se um índice não existir na lista?|IndexError|ValueError|TypeError
+Qual erro ocorre ao dividir por zero?|ZeroDivisionError|MathError|CalcError
+Qual função transforma um número em string?|str()|text()|char()
+Qual é o booleano para verdadeiro?|True|true|Verdadeiro
+Qual é o booleano para falso?|False|false|Falso
+Qual método divide uma string em uma lista?|.split()|.break()|.cut()
+Qual caractere quebra linha em uma string?|\n|\t|\b
+Qual caractere faz uma tabulação (tab)?|\t|\n|\s
+Como formatar uma string com variáveis?|f"Valor: {x}"|f"Valor: (x)"|"Valor: " + x
+Qual tipo de dado é o resultado de 10 / 2?|float|int|decimal
+Qual o resultado de: 3 * "A"?|AAA|3A|Erro
+Qual o resultado de: "10" + "10"?|1010|20|Erro
+Como verificar o tipo de uma variável?|type()|check()|class()
+Qual destas é uma palavra reservada?|class|variable|loop
+Como criar um comentário de múltiplas linhas?|""" Texto """|// Texto //|### Texto
+Qual a diferença entre lista e dicionário?|Dicionário tem chave-valor|Lista não tem ordem|Dicionário é imutável
+O que é o IDLE?|Ambiente de desenvolvimento padrão|O compilador|Uma biblioteca
+Qual operador verifica se dois valores são diferentes?|!=|<>|not =
+O que a função round() faz?|Arredonda um número|Trunca o número|Calcula a raiz
+Qual biblioteca é usada para datas e horas?|datetime|time|calendar
+Como limpar espaços em branco no início/fim da string?|.strip()|.clean()|.trim()
+Qual o valor de x? x = 5; x += 3|8|53|15
+Qual estrutura de dados não permite duplicatas?|Set (Conjunto)|Lista|Tupla
+Como se define um Set?|{1, 2, 3}|[1, 2, 3]|(1, 2, 3)
+O que é uma variável global?|Acessível em todo o código|Acessível só na função|Uma constante
+O que é indentação em Python?|Espaçamento que define blocos|Apenas estilo|Comentários
+Qual comando instala bibliotecas externas?|pip install|python get|py download
+Qual o resultado de bool(0)?|False|True|Null
+Qual o resultado de bool(1)?|True|False|None
+Como elevar 2 ao cubo?|2 ** 3|2 * 3|2 ^ 3
+Qual função retorna o valor absoluto?|abs()|positive()|module()
+Qual função retorna o maior valor de uma lista?|max()|top()|high()
+Qual função retorna o menor valor de uma lista?|min()|low()|bottom()
+Como abrir um arquivo para leitura?|open('arq', 'r')|open('arq', 'w')|open('arq', 'a')
+Como abrir um arquivo para escrita?|open('arq', 'w')|open('arq', 'r')|open('arq', 'read')
+O que o modo 'a' faz ao abrir arquivos?|Adiciona conteúdo (Append)|Apaga e escreve|Lê o arquivo
+Qual método fecha um arquivo aberto?|.close()|.end()|.stop()
+Qual é a saída de print("Olá" * 0)?|(String vazia)|Olá|Erro
+Python diferencia maiúsculas de minúsculas?|Sim (Case Sensitive)|Não|Depende do sistema
+Qual palavra-chave cria uma classe?|class|object|struct
+O que é 'self' em uma classe?|Referência à instância atual|Uma variável global|O nome da classe
+Qual é o método construtor de uma classe?|__init__|__start__|__main__
+Como criar uma lista de 0 a 9?|list(range(10))|list(0..9)|range(0, 10)
+O que o método .join() faz?|Une elementos de uma lista|Separa uma string|Cria uma lista
+Qual o operador lógico para 'OU exclusivo'?|^|xor|><
+Como verificar se uma chave existe no dicionário?|if chave in dic:|if dic.has(chave):|if dic.exist(chave):
+Qual o resultado de 2 + 2 * 3?|8|12|10
+Qual erro ocorre ao somar str e int?|TypeError|ValueError|SyntaxError
+O que significa concatenar?|Juntar strings|Somar números|Dividir listas
+Qual a função para ordenar uma lista?|.sort()|.order()|.rank()
+Como inverter a ordem de uma lista?|.reverse()|.back()|.invert()
+Qual variável armazena números com ponto flutuante?|float|double|real
+O que é uma docstring?|String de documentação|Erro de string|Nome de arquivo
