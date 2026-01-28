@@ -1,4 +1,4 @@
-# 🏓 Terminal Squash (Windows)
+# 🏓 Pong para terminal Python (Windows)
 
 Um jogo simples estilo Pong/Squash rodando inteiramente no terminal do Windows, escrito em Python puro. O jogo utiliza **ANSI escape sequences** para renderização colorida e **msvcrt** para controle de entrada sem bloqueio.
 
@@ -22,9 +22,9 @@ Este código foi projetado especificamente para **Windows**.
 ## 🚀 Como Executar
 
 1.  Certifique-se de ter o Python instalado.
-2.  Salve o código em um arquivo, por exemplo: `game.py`.
+2.  Salve o código em um arquivo, por exemplo: `pong.py`.
 3.  Abra seu terminal e navegue até a pasta do arquivo.
 4.  Execute o comando:
 
 ```bash
-python game.py
+python pong.py
